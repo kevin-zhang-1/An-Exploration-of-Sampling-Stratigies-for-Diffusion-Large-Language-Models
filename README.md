@@ -24,3 +24,8 @@ Diffusion-based Large Language models have emerged as promising alternative to c
 
 ## Access
 The code for the different sampling strategies is included in [Sampling_strategies_for_dLLMs](Sampling_strategies_for_dLLMs/), access and run according to each strategy
+
+## An illustration The inference process of Diffusion-LLMs
+![Inference Process of dLLM](dLLM_inference_process.jpg)
+
+Diffusion-LLM with its inherent property of parallel generation, allows great potential of significantly accelerating inference.
